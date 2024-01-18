@@ -1,2 +1,9 @@
 # Python-API-tool
 Try making API tools in python
+
+Plan.1
+  To understand how the API works
+Plan.2
+  Try using postman for API testing
+Plan.3
+  Try to reproducing the same API test in Python
